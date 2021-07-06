@@ -1,5 +1,9 @@
 # benchmark for CRC algorithm
 
+Baseado no código
+
+[https://github.com/patrickmn/picugen](https://github.com/patrickmn/picugen)
+
 ```shell
 goos: darwin
 goarch: arm64
