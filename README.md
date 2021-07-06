@@ -4,6 +4,8 @@ Baseado no código
 
 [https://github.com/patrickmn/picugen](https://github.com/patrickmn/picugen)
 
+[http://users.ece.cmu.edu/~koopman/networks/dsn02/dsn02_koopman.pdf](http://users.ece.cmu.edu/~koopman/networks/dsn02/dsn02_koopman.pdf)
+
 ```shell
 goos: darwin
 goarch: arm64
