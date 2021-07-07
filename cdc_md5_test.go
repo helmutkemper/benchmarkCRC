@@ -81,7 +81,7 @@ func BenchmarkCRC32IEEE(b *testing.B) {
 	}
 }
 
-func BenchmarkCRC31Castagnoli(b *testing.B) {
+func BenchmarkCRC32Castagnoli(b *testing.B) {
 	var err error
 	var data []byte
 	data, err = json.Marshal(&user)
